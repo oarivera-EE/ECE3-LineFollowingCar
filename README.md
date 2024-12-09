@@ -19,7 +19,7 @@
  * - Turnaround detection at endpoint and stop detection at starting point
  * - Adjustable speed and precision for stable navigation
  * 
- * Authors: Andrew Cardona, Oscar Rivera
+ * Authors: Oscar Rivera, Andrew Cardona
  * Class: Introduction to Electrical Engineering (ECE 3) - Fall 2024
  * 
  * Notes:
