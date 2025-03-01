@@ -1,6 +1,9 @@
 ============================================================================
+
 Final Project for ECE3 - Line Following Car with Turnaround Detection
+
 ============================================================================
+
 Project Name: Autonomous Line-Following Car with TI-RSLK MAX
 
 Description:
@@ -19,6 +22,7 @@ Features:
  Adjustable speed and precision for stable navigation
  
 Authors: Oscar Rivera, Andrew Cardona
+
 Class: Introduction to Electrical Engineering (ECE 3) - Fall 2024
 
 Notes:
