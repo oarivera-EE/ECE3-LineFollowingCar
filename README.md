@@ -1,15 +1,14 @@
-============================================================================
+==========================================================================
 
 Final Project for ECE3 - Line Following Car with Turnaround Detection
 
-============================================================================
+==========================================================================
 
 Project Name: Autonomous Line-Following Car with TI-RSLK MAX
 
-Description:
-This program controls a TI-RSLK MAX robot to follow a line using IR sensors 
-and a PD-based control system. It detects intersections to perform 
-turnarounds and uses timing constraints for navigation stability. 
+Description: This program controls a TI-RSLK MAX robot to follow a line using IR sensors and a PD-based control 
+
+system. It detects intersections to perform turnarounds and uses timing constraints for navigation stability. 
 
 Hardware Used:
 - TI-RSLK MAX Robotics Kit
